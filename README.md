@@ -2,9 +2,9 @@
 <h3 align="center">I am certified Google IT Automation with Python professional. I am constantly expanding my skill set. Currently, I am mastering front-end web development with React.js. My motivation and attention to detail have helped me become a skilled front-end developer with a strong foundation in HTML, CSS, and JavaScript. I excel at creating responsive and user-friendly web designs and have a proven ability to work both independently and collaboratively on complex projects. Eager to apply my skills and continue learning in a professional setting, I am always looking for new challenges and opportunities to grow</h3>
 
 - 🔭 [retail lucky shrub](https://github.com/SHUBHAM10119/-meta-frontend-project-retail-lucky-shrub/tree/main/little-lemon-)
-- https://www.naukri.com/code360/profile/shubham10
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:- https://www.naukri.com/code360/profile/shubham10</h3>
 <p align="left">
 </p>
 
